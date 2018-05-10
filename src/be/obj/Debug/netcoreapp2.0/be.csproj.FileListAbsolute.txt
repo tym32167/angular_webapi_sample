@@ -1,0 +1,10 @@
+D:\Code\github\angular_webapi_sample\src\be\bin\Debug\netcoreapp2.0\be.deps.json
+D:\Code\github\angular_webapi_sample\src\be\bin\Debug\netcoreapp2.0\be.runtimeconfig.json
+D:\Code\github\angular_webapi_sample\src\be\bin\Debug\netcoreapp2.0\be.runtimeconfig.dev.json
+D:\Code\github\angular_webapi_sample\src\be\bin\Debug\netcoreapp2.0\be.dll
+D:\Code\github\angular_webapi_sample\src\be\bin\Debug\netcoreapp2.0\be.pdb
+D:\Code\github\angular_webapi_sample\src\be\obj\Debug\netcoreapp2.0\be.csproj.CoreCompileInputs.cache
+D:\Code\github\angular_webapi_sample\src\be\obj\Debug\netcoreapp2.0\be.AssemblyInfoInputs.cache
+D:\Code\github\angular_webapi_sample\src\be\obj\Debug\netcoreapp2.0\be.AssemblyInfo.cs
+D:\Code\github\angular_webapi_sample\src\be\obj\Debug\netcoreapp2.0\be.dll
+D:\Code\github\angular_webapi_sample\src\be\obj\Debug\netcoreapp2.0\be.pdb
